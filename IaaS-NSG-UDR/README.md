@@ -1,6 +1,6 @@
 # Virtual Network with two Subnets
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/nonyy/azure-templates/blob/master/IaaS-NSG-UDR/azuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/hhttps://raw.githubusercontent.com/nonyy/azure-templates/master/IaaS-NSG-UDR/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
